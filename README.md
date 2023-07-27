@@ -1,8 +1,12 @@
 # 🗞️Hindustan Times Newspaper API
 
+<br></br>
+
 ![Hindustan Times](https://www.hindustantimes.com/static-content/1y/2023/ht-images/ht-logo.png)
 
-Welcome to the Hindustan Times Newspaper API! This API allows you to access trending headlines or titles listed in Hindustan Times for different news categories. The API provides three main endpoints to retrieve top news from various topics: `/top-world-news`, `/top-india-news`, and `/top-news`.
+<br></br>
+
+**Welcome to the Hindustan Times Newspaper API! This API allows you to access trending headlines or titles listed in Hindustan Times for different news categories. The API provides three main endpoints to retrieve top news from various topics: `/top-world-news`, `/top-india-news`, and `/top-news`.**
 
 ## 🔗Base URL 
 
@@ -10,7 +14,7 @@ Welcome to the Hindustan Times Newspaper API! This API allows you to access tren
 https://hindustantimes-1-t3366110.deta.app
 ```
 
-## Endpoints
+## 🧟‍♂️Endpoints
 
 ### 1. `/top-world-news`
 
@@ -60,13 +64,15 @@ GET https://hindustantimes-1-t3366110.deta.app/top-news
 [" INDIA MPs to visit strife-torn Manipur on Saturday, Sunday","High-decibel unrest in Rajya Sabha: Jaishankar ‘upset’ over Opposition's conduct","'Gehlot ji could not come today as...': PM Modi amid PMO, CM Twitter war","PM Modi to inaugurate Gujarat's first Greenfield International Airport today","Indo-Canadian Anita Anand promoted to treasury board president by Canadian PM","Samsung reveals Z Flip 5, Z Fold 5, Galaxy Watch 6 and Tab S9 India prices","Novak Djokovic's father makes colossal 2024 'retirement' wish for Serbia star",,..."]
 ```
 
+
 ## 🐳Dockerfile
 
-You can also access the api image using docker. 
+You can also pull api image using docker. 
 
 ```
 https://hub.docker.com/r/ujjwalmahar/hindustan-times-api
 ```
+
 
 ## 📝NOTE:
 
@@ -74,6 +80,9 @@ Please note that this API only provides access to the trending headlines or titl
 
 That's it! You can now use the Hindustan Times Newspaper API to fetch the latest trending headlines and stay up-to-date with world news, India news, or a combination of both. Enjoy!🎉
 
+
 ## ⚠️Disclaimer:
 
 The Hindustan Times Newspaper API provided here is a third-party service and is not affiliated with Hindustan Times or its official entities. This API has been developed independently to offer users access to trending headlines or titles from Hindustan Times for informational purposes only.
+
+Enjoy🎉
