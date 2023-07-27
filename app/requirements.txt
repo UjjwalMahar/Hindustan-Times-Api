@@ -1,0 +1,6 @@
+bs4
+fastapi
+requests
+termcolor
+python-dotenv
+uvicorn
